@@ -4,7 +4,7 @@
 
 ---
 
-**[Wiki](https://github.com/K3rn3l-P/browser-master/tree/master/wiki) | [FAQs](https://github.com/K3rn3l-P/browser-master/blob/master/FAQs.md) | [Releases](https://github.com/K3rn3l-P/browser-master/releases) | [Changelog](https://github.com/K3rn3l-P/browser-master/blob/master/CHANGELOG.md) | [Privacy Policy](https://github.com/K3rn3l-P/browser-master/blob/master/PRIVACY.md) | [License](https://github.com/K3rn3l-P/browser-master/blob/master/LICENSE.md) | [Code of conduct](https://github.com/K3rn3l-P/browser-master/blob/master/CODE_OF_CONDUCT.md) | [Contributing](https://github.com/K3rn3l-P/browser-master/blob/master/CONTRIBUTING.md) | [Help translating](https://github.com/K3rn3l-P/browser-master)**
+**[Wiki](https://github.com/K3rn3l-P/browser-master/wiki) | [FAQs](https://github.com/K3rn3l-P/browser-master/blob/master/FAQs.md) | [Releases](https://github.com/K3rn3l-P/browser-master/releases) | [Changelog](https://github.com/K3rn3l-P/browser-master/blob/master/CHANGELOG.md) | [Privacy Policy](https://github.com/K3rn3l-P/browser-master/blob/master/PRIVACY.md) | [License](https://github.com/K3rn3l-P/browser-master/blob/master/LICENSE.md) | [Code of conduct](https://github.com/K3rn3l-P/browser-master/blob/master/CODE_OF_CONDUCT.md) | [Contributing](https://github.com/K3rn3l-P/browser-master/blob/master/CONTRIBUTING.md) | [Help translating](https://github.com/K3rn3l-P/browser-master)**
 
 ---
 

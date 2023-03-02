@@ -54,7 +54,7 @@ public class Settings_Backup extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem menuItem) {
         if (menuItem.getItemId() == android.R.id.home) finish();
         if (menuItem.getItemId() == R.id.menu_help) {
-            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki/Backup");
+            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/wiki/Backup");
             BrowserUnit.intentURL(this, webpage);
         }
         return true;

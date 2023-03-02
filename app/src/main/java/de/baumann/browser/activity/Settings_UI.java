@@ -54,7 +54,7 @@ public class Settings_UI extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem menuItem) {
         if (menuItem.getItemId() == android.R.id.home) finish();
         if (menuItem.getItemId() == R.id.menu_help) {
-            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki/Behavior-UI");
+            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/wiki/Behavior-UI");
             BrowserUnit.intentURL(this, webpage);
         }
         return true;

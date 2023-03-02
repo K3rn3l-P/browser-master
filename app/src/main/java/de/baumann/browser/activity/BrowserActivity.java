@@ -305,7 +305,7 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
         //if still no open Tab open default page
         if (BrowserContainer.size() < 1) {
             if (sp.getBoolean("start_tabStart", false)) showOverview();
-            addAlbum(getString(R.string.app_name), Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/tree/master/wiki")), true, false, "");
+            addAlbum(getString(R.string.app_name), Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/wiki")), true, false, "");
         }
     }
 
@@ -441,7 +441,7 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
         if (BrowserContainer.size() <= 1) {
             if (!sp.getBoolean("sp_reopenLastTab", false)) doubleTapsQuit();
             else {
-                ninjaWebView.loadUrl(Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/tree/master/wiki")));
+                ninjaWebView.loadUrl(Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/wiki")));
                 hideOverview(); }}
         else {
             closeTabConfirmation(() -> {
@@ -730,7 +730,7 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
                     else if (item.getItemId() == R.id.menu_filter) {
                         showDialogFilter(); }
                     else if (item.getItemId() == R.id.menu_help) {
-                        Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki/Overview");
+                        Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/wiki/Overview");
                         BrowserUnit.intentURL(this, webpage); }
                     return true;
                 });
@@ -1019,7 +1019,7 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
         Button overflow_help = dialogView.findViewById(R.id.overflow_help);
         overflow_help.setOnClickListener(v -> {
             dialog_overflow.cancel();
-            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki");
+            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/wiki");
             BrowserUnit.intentURL(this, webpage); });
 
         final GridView menu_grid_tab = dialogView.findViewById(R.id.overflow_tab);
@@ -1072,11 +1072,11 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
         menu_grid_tab.setOnItemClickListener((parent, view14, position, id) -> {
             dialog_overflow.cancel();
             if (position == 0)
-                ninjaWebView.loadUrl(Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/tree/master/wiki")));
+                ninjaWebView.loadUrl(Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/wiki")));
             else if (position == 1)
-                addAlbum(getString(R.string.app_name), Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/tree/master/wiki")), true, false, "");
+                addAlbum(getString(R.string.app_name), Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/wiki")), true, false, "");
             else if (position == 2)
-                addAlbum(getString(R.string.app_name), Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/tree/master/wiki")), true, true, "");
+                addAlbum(getString(R.string.app_name), Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/wiki")), true, true, "");
             else if (position == 3) ninjaWebView.reload();
             else if (position == 4) removeAlbum(currentAlbumController);
             else if (position == 5) doubleTapsQuit(); });
@@ -1161,7 +1161,7 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
             dialog_overflow.cancel();
             if (position == 0) searchOnSite();
             else if (position == 1) {
-                Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki");
+                Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/wiki");
                 BrowserUnit.intentURL(this, webpage); }
             else if (position == 2) {
                 startActivity(Intent.createChooser(new Intent(DownloadManager.ACTION_VIEW_DOWNLOADS), null));
@@ -1852,7 +1852,7 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
             button_help.setVisibility(View.VISIBLE);
             button_help.setOnClickListener(view -> {
                 dialog.cancel();
-                Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki/Fast-Toggle-Dialog");
+                Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/wiki/Fast-Toggle-Dialog");
                 BrowserUnit.intentURL(this, webpage);
             });
         } else {
@@ -1877,7 +1877,7 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
         button_help.setVisibility(View.VISIBLE);
         button_help.setOnClickListener(view -> {
             dialog.cancel();
-            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki/Filter-Dialog");
+            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/wiki/Filter-Dialog");
             BrowserUnit.intentURL(this, webpage);
         });
 
@@ -2111,7 +2111,7 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
                 showOverview();
                 break;
             case "09":
-                addAlbum(getString(R.string.app_name), Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/tree/master/wiki")), true, false, "");
+                addAlbum(getString(R.string.app_name), Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/wiki")), true, false, "");
                 break;
             case "10":
                 removeAlbum(currentAlbumController);
@@ -2135,7 +2135,7 @@ public class BrowserActivity extends AppCompatActivity implements BrowserControl
                 ninjaWebView.reload();
                 break;
             case "17":
-                ninjaWebView.loadUrl(Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/tree/master/wiki")));
+                ninjaWebView.loadUrl(Objects.requireNonNull(sp.getString("favoriteURL", "https://github.com/K3rn3l-P/browser-master/wiki")));
                 break;
             case "18":
                 bottom_navigation.setSelectedItemId(R.id.page_2);
