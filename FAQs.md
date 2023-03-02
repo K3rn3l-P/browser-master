@@ -81,7 +81,7 @@ Yes. In all recent versions, information sent between your phone and the website
 
 Your privacy is somewhat secured when you use FBrowser. The term somewhat is used because; no method of transmission over the internet or electronic storage is 100% secure, therefore the developer doesn't guarantee its absolute security.
 
-You can read FBrowser [Privacy Policy](https://github.com/K3rn3l-P/FBrowser/browser/blob/master/PRIVACY.md)
+You can read FBrowser [Privacy Policy](https://github.com/K3rn3l-P/browser-master/blob/master/PRIVACY.md)
 
 ---
 
@@ -122,7 +122,7 @@ Read how to get into the app's settings [here](https://hackmd.io/t0WLk9GXRziQENX
 
 Firstly, apologies for any inconvenience this issue may have caused you. The developer is working to ensure that the app is bug-free. You can help speed up that process by making a report to when you encounter an error, or when the app crashes.
 
-You can report a bug by opening an issue [here](https://github.com/K3rn3l-P/FBrowser/browser/issues/new)
+You can report a bug by opening an issue [here](https://github.com/K3rn3l-P/browser-master/issues/new)
 
 Filing a great bug report helps the developer pinpoint the cause of the bug and effectively work on a fix.
 
@@ -132,4 +132,4 @@ Filing a great bug report helps the developer pinpoint the cause of the bug and 
 
 If there are other questions you think should be added to this FAQs document, feel free to open an issue or add the question(s) to this document and make a pull request.
 
-For further inquiries, you can contact the developer by opening an issue [here](https://github.com/K3rn3l-P/FBrowser/browser/issues/new)
+For further inquiries, you can contact the developer by opening an issue [here](https://github.com/K3rn3l-P/browser-master/issues/new)

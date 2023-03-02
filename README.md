@@ -1,10 +1,10 @@
-![FBrowser logo](https://github.com/K3rn3l-P/FBrowser/browser/blob/master/graphics/featuresGrafic.png)
+![FBrowser logo](https://github.com/K3rn3l-P/browser-master/blob/master/graphics/featuresGrafic.png)
 
 "FBrowser" is a fully free (as in freedom) open source Android browser: privacy-friendly with a modern user interface. _- Your privacy - your data._
 
 ---
 
-**[Wiki](https://github.com/K3rn3l-P/browser-master/tree/master/wiki) | [FAQs](https://github.com/K3rn3l-P/FBrowser/browser/blob/master/FAQs.md) | [Releases](https://github.com/K3rn3l-P/FBrowser/browser/releases) | [Changelog](https://github.com/K3rn3l-P/FBrowser/browser/blob/master/CHANGELOG.md) | [Privacy Policy](https://github.com/K3rn3l-P/FBrowser/browser/blob/master/PRIVACY.md) | [License](https://github.com/K3rn3l-P/FBrowser/browser/blob/master/LICENSE.md) | [Code of conduct](https://github.com/K3rn3l-P/FBrowser/browser/blob/master/CODE_OF_CONDUCT.md) | [Contributing](https://github.com/K3rn3l-P/FBrowser/browser/blob/master/CONTRIBUTING.md) | [XDA](http://forum.xda-developers.com/android/apps-games/app-browser-t3500091) | [Help translating](https://crowdin.com/project/foss-browser)**
+**[Wiki](https://github.com/K3rn3l-P/browser-master/tree/master/wiki) | [FAQs](https://github.com/K3rn3l-P/browser-master/blob/master/FAQs.md) | [Releases](https://github.com/K3rn3l-P/browser-master/releases) | [Changelog](https://github.com/K3rn3l-P/browser-master/blob/master/CHANGELOG.md) | [Privacy Policy](https://github.com/K3rn3l-P/browser-master/blob/master/PRIVACY.md) | [License](https://github.com/K3rn3l-P/browser-master/blob/master/LICENSE.md) | [Code of conduct](https://github.com/K3rn3l-P/browser-master/blob/master/CODE_OF_CONDUCT.md) | [Contributing](https://github.com/K3rn3l-P/browser-master/blob/master/CONTRIBUTING.md) | [XDA](http://forum.xda-developers.com/android/apps-games/app-browser-t3500091) | [Help translating](https://crowdin.com/project/foss-browser)**
 
 <a href="https://f-droid.org/packages/de.baumann.browser/" target="_blank">
 <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="50"/></a>
@@ -38,7 +38,7 @@ _More privacy features:_
 - Enable or disable Android-autofill.
 - Delete browser data (on app exit).
 - Choose between different search engines (or set a custom one).
-- FBrowser itself doesn't collect any data: [Privacy policy](https://github.com/K3rn3l-P/FBrowser/browser/blob/master/PRIVACY.md)
+- FBrowser itself doesn't collect any data: [Privacy policy](https://github.com/K3rn3l-P/browser-master/blob/master/PRIVACY.md)
 
 ---
 

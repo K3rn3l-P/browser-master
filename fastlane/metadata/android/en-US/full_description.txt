@@ -1,6 +1,6 @@
 "FBrowser" is a fully free (as in freedom) open source Android browser: privacy-friendly with a modern user interface. - Your privacy - your data.
 
-<b>Project Homepage with further info: https://github.com/K3rn3l-P/FBrowser/browser/</b>
+<b>Project Homepage with further info: https://github.com/K3rn3l-P/browser-master/</b>
 
 
 -------------------------------------------------

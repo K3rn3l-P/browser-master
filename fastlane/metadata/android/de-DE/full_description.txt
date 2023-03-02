@@ -1,6 +1,6 @@
 "FBrowser" ist ein komplett freier (wie in Freiheit), quelloffener Browser für Android: datenschutzfreundlich mit einer modernen Benutzeroberfläche. Your privacy - your data.
 
-<b>Projektseite mit weiteren Informationen: https://github.com/K3rn3l-P/FBrowser/browser/</b>
+<b>Projektseite mit weiteren Informationen: https://github.com/K3rn3l-P/browser-master/</b>
 
 
 -------------------------------------------------
