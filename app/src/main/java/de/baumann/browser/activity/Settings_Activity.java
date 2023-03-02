@@ -57,7 +57,7 @@ public class Settings_Activity extends AppCompatActivity {
             Uri webpage = Uri.parse("https://github.com/K3rn3l-P/FBrowser/browser/blob/master/README.md");
             BrowserUnit.intentURL(this, webpage);
         } else if (menuItem.getItemId() == R.id.menu_help) {
-            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/FBrowser/browser/wiki/Settings-(Main-screen)");
+            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki/Settings-(Main-screen)");
             BrowserUnit.intentURL(this, webpage);
         }
         return true;

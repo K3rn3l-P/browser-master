@@ -71,7 +71,7 @@ public class Settings_Profile extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem menuItem) {
         if (menuItem.getItemId() == android.R.id.home) finish();
         if (menuItem.getItemId() == R.id.menu_help) {
-            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/FBrowser/browser/wiki/Edit-profiles");
+            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki/Edit-profiles");
             BrowserUnit.intentURL(this, webpage);
         }
         return true;

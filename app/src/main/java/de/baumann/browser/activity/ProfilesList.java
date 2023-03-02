@@ -212,7 +212,7 @@ public class ProfilesList extends AppCompatActivity {
             dialog.show();
             HelperUnit.setupDialog(this, dialog);
         } else if (menuItem.getItemId() == R.id.menu_help) {
-            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/FBrowser/browser/wiki/Profile-list");
+            Uri webpage = Uri.parse("https://github.com/K3rn3l-P/browser-master/tree/master/wiki/Profile-list");
             BrowserUnit.intentURL(this, webpage);
         }
         return true;
