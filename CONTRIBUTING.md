@@ -19,7 +19,7 @@ There's a good chance that whatever reason you might be opening an issue for mig
 
 ## Missing language support?
 
-Your language isn't supported yet? You want to translate FBrowser? Or make improvements to existing translations? Feel free to use [crowdin](https://crowdin.com/project/foss-browser).
+Your language isn't supported yet? You want to translate FBrowser? Or make improvements to existing translations? Feel free to use [crowdin](https://github.com/K3rn3l-P/browser-master).
 
 ## New ideas, enhancements and feature requests
 
@@ -105,6 +105,6 @@ developer, you can fork FBrowser and fix it yourself.
 
 For further inquiries, you can contact the developer by opening an issue on the repository.
 
-You can also check out the developer's profile [here](https://github.com/K3rn3l-P/FBrowser).
+You can also check out the developer's profile [here](https://github.com/K3rn3l-P/browser-master).
 
 **_Thank you for your interest in contributing to FBrowser. I appreciate all the help with finding and fixing bugs, making performance improvements, and other tasks. Every contribution is helpful and I thank you for your effort._**
